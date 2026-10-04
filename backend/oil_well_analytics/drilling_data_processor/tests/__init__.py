@@ -1,10 +1,10 @@
 """
-ماژول تست‌های پکیج drilling_processor
+Test module for the drilling_processor package
 
-شامل:
-- unit: تست‌های واحد برای ماژول‌های جداگانه
-- integration: تست‌های یکپارچه‌سازی سیستم
+Includes:
+- unit: unit tests for individual modules
+- integration: system integration tests
 """
 
-# این فایل می‌تواند خالی بماند
-# وجودش نشان می‌دهد که پوشه tests یک پکیج پایتون است
+# This file may be left empty
+# Its presence marks the tests folder as a Python package
